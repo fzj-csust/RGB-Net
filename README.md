@@ -1,4 +1,4 @@
-[FiveK74.pdf](https://github.com/user-attachments/files/19442980/FiveK74.pdf)# RGB-Net
+# RGB-Net
 
 LINK:(https://link.springer.com/article/10.1007/s00530-025-01750-4)
 
