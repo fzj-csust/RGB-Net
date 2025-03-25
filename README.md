@@ -17,4 +17,3 @@ If our code is helpful to you, please cite this article:
   publisher={Springer}
 }
 
-![Uploading image.png…]()
