@@ -8,12 +8,20 @@ If our code is helpful to you, please cite this article:
 
 @article{zhang2025rgb,
   title={RGB-Net: transformer-based lightweight low-light image enhancement network via RGB channel separation},
+  
   author={Zhang, Jianming and Feng, Zhijian and Jiang, Jia and Shi, Xiangnan and Zhang, Jin},
+  
   journal={Multimedia Systems},
+  
   volume={31},
+  
   number={2},
+  
   pages={162},
+  
   year={2025},
+  
   publisher={Springer}
+  
 }
 
